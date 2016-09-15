@@ -1,0 +1,6 @@
+D:\MyProject\CSharp\CircularPrime\CircularPrime\bin\Debug\CircularPrime.exe.config
+D:\MyProject\CSharp\CircularPrime\CircularPrime\bin\Debug\CircularPrime.exe
+D:\MyProject\CSharp\CircularPrime\CircularPrime\bin\Debug\CircularPrime.pdb
+D:\MyProject\CSharp\CircularPrime\CircularPrime\obj\Debug\CircularPrime.csprojResolveAssemblyReference.cache
+D:\MyProject\CSharp\CircularPrime\CircularPrime\obj\Debug\CircularPrime.exe
+D:\MyProject\CSharp\CircularPrime\CircularPrime\obj\Debug\CircularPrime.pdb
